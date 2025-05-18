@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmemorykeeper_website=self.webpackChunkmemorykeeper_website||[]).push([[482],{2031:e=>{e.exports=JSON.parse('{"permalink":"/EverSnip/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
